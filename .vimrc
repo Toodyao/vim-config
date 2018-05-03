@@ -1,7 +1,9 @@
 set tabstop=4
+set shiftwidth=4
 set nu!
 syntax on
 set autoindent
+set cindent
 set nocompatible
 set backspace=indent,eol,start
 
