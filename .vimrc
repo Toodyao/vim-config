@@ -3,7 +3,7 @@ set shiftwidth=4
 set nu!
 syntax on
 set autoindent
-set cindent
+set smartindent
 set nocompatible
 set backspace=indent,eol,start
 
