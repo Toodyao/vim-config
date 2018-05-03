@@ -4,6 +4,7 @@ set nu!
 syntax on
 set autoindent
 set smartindent
+set cindent
 set nocompatible
 set backspace=indent,eol,start
 
